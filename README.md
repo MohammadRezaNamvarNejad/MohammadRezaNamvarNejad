@@ -10,7 +10,7 @@
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,mui,html,css,vite,git,github,nodejs,express,python,figma,docker,mongodb,postgres&perline=12" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,mui,html,css,vite,git,github,nodejs,express,python,figma,docker&perline=12" />
 
 ---
 
